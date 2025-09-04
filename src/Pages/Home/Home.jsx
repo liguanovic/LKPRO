@@ -36,7 +36,10 @@ const Home = () => {
                     <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
                     <div className="logo-slider">
                         {logoClub.map((logo, index) => (
-                            <img key={index} src={`${process.env.PUBLIC_URL}/${logo.src}`} alt={logo.alt} className="confiance-logo" />
+                            <img
+                                key={index}
+                                src={`${process.env.PUBLIC_URL}/${logo.src}`}
+                                alt={logo.alt} className="confiance-logo" />
                         ))}
                     </div>
                 </section>
