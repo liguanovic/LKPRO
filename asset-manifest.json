@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LKPRO/static/css/main.d1efa141.css",
-    "main.js": "/LKPRO/static/js/main.3c8ba14a.js",
+    "main.css": "/LKPRO/static/css/main.0fef23f8.css",
+    "main.js": "/LKPRO/static/js/main.139812bd.js",
     "static/js/453.342a5932.chunk.js": "/LKPRO/static/js/453.342a5932.chunk.js",
     "static/media/home-picture.jpg": "/LKPRO/static/media/home-picture.286ff9874fbb63f33c3a.jpg",
     "static/media/logo.png": "/LKPRO/static/media/logo.033cefd394276208ecb1.png",
     "index.html": "/LKPRO/index.html",
-    "main.d1efa141.css.map": "/LKPRO/static/css/main.d1efa141.css.map",
-    "main.3c8ba14a.js.map": "/LKPRO/static/js/main.3c8ba14a.js.map",
+    "main.0fef23f8.css.map": "/LKPRO/static/css/main.0fef23f8.css.map",
+    "main.139812bd.js.map": "/LKPRO/static/js/main.139812bd.js.map",
     "453.342a5932.chunk.js.map": "/LKPRO/static/js/453.342a5932.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1efa141.css",
-    "static/js/main.3c8ba14a.js"
+    "static/css/main.0fef23f8.css",
+    "static/js/main.139812bd.js"
   ]
 }
