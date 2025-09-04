@@ -13,7 +13,7 @@ const Home = () => {
             <Nav />
             <main className="home">
                 <figure className='homeFigure'>
-                    <img className="homePicture" src={homePicture} alt="Protege tibias LK PRO" />
+                    <img className="homePicture" src={`${process.env.PUBLIC_URL}/assets/Pictures/home-picture.jpg`} alt="Protege tibias LK PRO" />
                     <span className="homeCaption">LK PRO <br /> <span className="homeCaptionSmall">Votre allié sportif</span></span>
                 </figure>
 
@@ -23,7 +23,7 @@ const Home = () => {
                     {productsCard.map((product, index) => (
                         <ProductCard
                             key={index}
-                            image={product.image}
+                            image={`${process.env.PUBLIC_URL}/${product.image}`}
                             title={product.title}
                             link={product.link}
                             alt={product.alt}
