@@ -1,0 +1,69 @@
+{
+  "title": "À propos de LK PRO",
+ "image": {
+    "src": "assets/pictures/sportif.png",
+    "alt": "Sportif portant des tenues personnalisées LK PRO"
+  },
+  "subtitle": "Équipementier sportif — Personnalisation de tenues et matériel pour clubs, associations et équipes sportives",
+
+  "sections": [
+    {
+      "heading": "Notre mission",
+      "paragraphs": [
+        "LK PRO est une entreprise spécialisée dans la fabrication et la personnalisation d’équipements sportifs. Nous accompagnons les clubs amateurs, professionnels, associations sportives et écoles dans la création de tenues 100% personnalisées, à leur image.",
+        "Nous proposons un service complet : choix des matières, des couleurs, ajout des logos, numéros, noms, slogans, sponsors… Chaque détail compte pour créer une identité visuelle forte et cohérente."
+      ]
+    },
+    {
+      "heading": "100% personnalisé",
+      "paragraphs": [
+        "Nous maîtrisons l’ensemble du processus de personnalisation textile : sublimation, broderie, impression, sérigraphie. Que vous soyez un club de football, de basketball, de handball, ou une association multisports, nous vous offrons des solutions sur mesure, techniques et esthétiques.",
+        "Nos modèles sont conçus pour la performance : respirants, résistants, confortables et durables dans le temps."
+      ],
+      "image": {
+        "src": "assets/pictures/picture-about.jpg",
+        "alt": "Exemples de personnalisation : couleurs, logos, matières",
+        "caption": "Des tenues qui représentent fièrement vos couleurs"
+      }
+    },
+    {
+      "heading": "Pourquoi choisir LK PRO ?",
+      "list": [
+        "Personnalisation avancée et accompagnement graphique",
+        "Produits de qualité professionnelle, testés sur le terrain",
+        "Délais de production rapides et respectés",
+        "Équipe réactive, à l’écoute de vos besoins",
+        "Tarifs adaptés aux clubs, avec remises par volume"
+      ]
+    },
+    {
+      "heading": "Nos engagements",
+      "paragraphs": [
+        "LK PRO s’engage à fournir des équipements sportifs responsables et durables. Nous favorisons des circuits de production courts et des matériaux certifiés. Notre objectif est de réduire notre impact environnemental tout en offrant un service de qualité."
+      ]
+    },
+    {
+      "heading": "Ils nous font confiance",
+      "paragraphs": [
+        "Chaque saison, des dizaines de clubs à travers la France et l’Europe nous font confiance pour concevoir leurs tenues officielles. Notre réputation repose sur un travail soigné, un rendu haut de gamme, et une relation de proximité avec nos clients."
+      ],
+      "image": {
+        "src": "assets/pictures/confiance.png",
+        "alt": "Quelques clubs équipés par LK PRO",
+        "caption": "Une communauté fidèle et engagée autour de notre marque."
+      }
+    },
+    {
+      "heading": "Contactez-nous",
+      "paragraphs": [
+        "Vous avez un projet ? Besoin d’un devis ou d’un accompagnement personnalisé ?",
+        "Contactez-nous dès maintenant pour discuter ensemble de vos besoins en équipements sportifs personnalisés."
+      ],
+      "contactInfo": {
+        "email": "informations.lkpro@gmail.com",
+        "phone": "+33 6 09 20 72 02",
+        "phone2": "+33 6 78 50 22 76"
+      }
+    }
+  ]
+}

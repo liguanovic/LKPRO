@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
 
 import logo from '../../assets/Pictures/logo.png';
 import './Nav.css';
@@ -12,8 +13,10 @@ const Nav = () => {
     return (
         <>
             <nav className="nav">
-                <figure >
-                    <img className="logo" src={logo} alt="Logo LK PRO" />
+                <figure>
+                    <Link to="/">
+                        <img className="logo" src={logo} alt="Logo LK PRO" />
+                    </Link>
                 </figure>
 
                 <ul className="nav-actions">

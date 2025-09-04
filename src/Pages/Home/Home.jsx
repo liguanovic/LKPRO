@@ -1,17 +1,21 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import ProductCard from '../../components/ProductCard/ProductCard';
 import productsCard from '../../data/productsCard.json';
 import CarrouselAdvantages from '../../components/CarrouselAdvantages/CarrouselAdvantages';
 import logoClub from '../../data/logos.json';
+
+
 import homePicture from '../../assets/Pictures/home-picture.jpg';
-import Nav from '../../components/Nav/Nav';
 
 import './Home.css'
 
 const Home = () => {
+
+    const navigate = useNavigate();
+
     return (
         <>
-            <Nav />
             <main className="home">
                 <figure className='homeFigure'>
                     <img className="homePicture" src={homePicture} alt="Protege tibias LK PRO" />
@@ -35,11 +39,10 @@ const Home = () => {
 
                 <section className="about-section">
                     <h2>LK PRO & Vous : Une équipe</h2>
-                    <p>Chez LK PRO, nous créons des équipements personnalisés pour les sportifs exigeants :<div style={{ height: "20px" }}></div>
-
+                    <p>Chez LK PRO, nous créons des équipements personnalisés pour les sportifs exigeants :<br /><br />
                         flocage de maillots, marquage club, ajout de logos, couleurs au choix…
                         Chaque pièce est conçue avec vous pour refléter votre identité sportive.</p>
-                    <button className="btn" onClick={() => window.location.href = '/about'}>En savoir plus</button>
+                    <button className="btn" onClick={() => navigate('/about')}>En savoir plus</button>
                 </section>
 
                 <CarrouselAdvantages />
