@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Qualité des produits",
+    "description": "Équipements résistants et performants.",
+    "image": "assets/pictures/advantages/sportif.png"
+  },
+  {
+    "title": "Choisis par des sportifs",
+    "description": "Sélectionnés avec soin par des athlètes.",
+    "image": "assets/pictures/advantages/athlete.jpg"
+  },
+  {
+    "title": "Service client",
+    "description": "Une équipe disponible pour répondre à toutes vos questions.",
+    "image": "assets/pictures/advantages/sav.jpg"
+  },
+  {
+    "title": "Variété des choix",
+    "description": "Large gamme adaptée à tous les besoins sportifs.",
+    "image": "assets/pictures/advantages/objet-qualite.png"
+  }
+]

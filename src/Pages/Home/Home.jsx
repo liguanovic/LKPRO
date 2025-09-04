@@ -1,6 +1,7 @@
 import React from 'react';
 import ProductCard from '../../components/ProductCard/ProductCard';
 import productsCard from '../../data/productsCard.json';
+import CarrouselAdvantages from '../../components/CarrouselAdvantages/CarrouselAdvantages';
 import logoClub from '../../data/logos.json';
 import homePicture from '../../assets/Pictures/home-picture.jpg';
 import Nav from '../../components/Nav/Nav';
@@ -18,6 +19,7 @@ const Home = () => {
                 </figure>
 
                 <h1>Nos produits</h1>
+                <p>Découvrez nos produits phares :</p>
 
                 <section className="product-list">
                     {productsCard.map((product, index) => (
@@ -31,18 +33,25 @@ const Home = () => {
                     ))}
                 </section>
 
+                <CarrouselAdvantages />
+
                 <section className="confiance">
                     <h2>Ils nous font confiance</h2>
                     <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
                     <div className="logo-slider">
-                        {logoClub.map((logo, index) => (
-                            <img
-                                key={index}
-                                src={`${process.env.PUBLIC_URL}/${logo.src}`}
-                                alt={logo.alt} className="confiance-logo" />
-                        ))}
+                        <div className="logo-track">
+                            {logoClub.concat(logoClub).map((logo, index) => (
+                                <img
+                                    key={index}
+                                    src={`${process.env.PUBLIC_URL}/${logo.src}`}
+                                    alt={logo.alt}
+                                    className="confiance-logo"
+                                />
+                            ))}
+                        </div>
                     </div>
                 </section>
+
 
             </main></>
 

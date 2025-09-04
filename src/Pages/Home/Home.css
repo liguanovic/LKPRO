@@ -58,24 +58,43 @@ h2 {
 
 .confiance {
     text-align: center;
-    margin: 50px 0;
+    margin: 20px 0;
     padding: 40px 0;
 }
 
-.confiance p {
+p {
     font-family: 'Bruno Ace SC', sans-serif;
     color: black;
     text-transform: uppercase;
+    text-align: center;
     font-size: 1rem;
-    margin: 50px 10px
+    margin: 40px 10px
 }
 
 .logo-slider {
-    align-items: center;
-    margin-top: 30px;
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.logo-track {
+    display: flex;
+    animation: scroll 20s linear infinite;
 }
 
 .confiance-logo {
     max-width: 150px;
     height: auto;
+    margin-right: 30px;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
 }
