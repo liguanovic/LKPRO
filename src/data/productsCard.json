@@ -12,7 +12,7 @@
         "link": "/produit-2"
     },
     {
-        "image": "assets/pictures/hauts-de-sport.png",
+        "image": "assets/pictures/haut-de-sport.png",
         "title": "Hauts de sport",
         "alt": "Photo de hauts de sport",
         "link": "/produit-3"
@@ -22,6 +22,12 @@
         "title": "Outils de récuperation",
         "alt": "Photo de bottes de recuperation",
         "link": "/produit-3"
+    },
+    {
+        "image": "assets/pictures/casquette.png",
+        "title": "Casquette / Chapeaux",
+        "alt": "Photo de casquette",
+        "link": "/produit-4"
     },
     {
         "image": "assets/pictures/fanions.png",

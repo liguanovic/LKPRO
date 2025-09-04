@@ -33,6 +33,15 @@ const Home = () => {
                     ))}
                 </section>
 
+                <section className="about-section">
+                    <h2>LK PRO & Vous : Une équipe</h2>
+                    <p>Chez LK PRO, nous créons des équipements personnalisés pour les sportifs exigeants :<div style={{ height: "20px" }}></div>
+
+                        flocage de maillots, marquage club, ajout de logos, couleurs au choix…
+                        Chaque pièce est conçue avec vous pour refléter votre identité sportive.</p>
+                    <button className="btn" onClick={() => window.location.href = '/about'}>En savoir plus</button>
+                </section>
+
                 <CarrouselAdvantages />
 
                 <section className="confiance">
@@ -53,7 +62,7 @@ const Home = () => {
                 </section>
 
 
-            </main></>
+            </main ></>
 
     )
 }

@@ -48,12 +48,40 @@ h2 {
 }
 
 .product-list {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-    margin: 0 auto;
-    padding: 0 20px;
+    padding: 15px;
+}
+
+.about-section {
+    text-align: center;
+    margin: 40px 0;
+    padding: 10px;
+    font-weight: 100;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Bruno Ace SC', sans-serif;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #333;
+}
+
+.btn:active {
+    transform: scale(0.96);
 }
 
 .confiance {

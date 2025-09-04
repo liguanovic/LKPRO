@@ -69,9 +69,6 @@ const CarrouselAdvantages = () => {
             <button className="carousel-arrow right" onClick={goNext}>
                 &gt;
             </button>
-
-            <p>hello</p>
-
         </section>
 
     );
