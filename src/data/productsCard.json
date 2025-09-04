@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/assets/Pictures/protege-tibias2.png",
+        "title": "Protége tibias",
+        "alt": "Photo de protège tibias",
+        "link": "/produit-1"
+    },
+    {
+        "image": "/assets/Pictures/sac.png",
+        "title": "Sacs de sport",
+        "alt": "Photo de sacs de sport",
+        "link": "/produit-2"
+    },
+    {
+        "image": "/assets/Pictures/hauts-de-sport.png",
+        "title": "Hauts de sport",
+        "alt": "Photo de hauts de sport",
+        "link": "/produit-3"
+    },
+    {
+        "image": "/assets/Pictures/bottes.png",
+        "title": "Outils de récuperation",
+        "alt": "Photo de bottes de recuperation",
+        "link": "/produit-3"
+    },
+    {
+        "image": "/assets/Pictures/fanions.png",
+        "title": "Fanions",
+        "alt": "Photo de fanions",
+        "link": "/produit-4"
+    }
+]
