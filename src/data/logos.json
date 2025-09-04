@@ -1,26 +1,26 @@
 [
     {
-        "src": "../../assets/pictures/logo-club/magnyfc.jpg",
+        "src": "assets/pictures/logo-club/magnyfc.jpg",
         "alt": "logo Club Magny FC"
     },
     {
-        "src": "../../assets/pictures/logo-club/uscreteil.png",
+        "src": "assets/pictures/logo-club/uscreteil.png",
         "alt": "logo Club US Creteil"
     },
     {
-        "src": "../../assets/pictures/logo-club/parismetropole.svg",
+        "src": "assets/pictures/logo-club/parismetropole.svg",
         "alt": "logo Club Paris Metropole"
     },
     {
-        "src": "../../assets/pictures/logo-club/atleticclubcreteil.png",
+        "src": "assets/pictures/logo-club/atleticclubcreteil.png",
         "alt": "logo Atletic Club Creteil"
     },
     {
-        "src": "../../assets/pictures/logo-club/uscreteil.png",
+        "src": "assets/pictures/logo-club/uscreteil.png",
         "alt": "logo Club US Creteil"
     },
     {
-        "src": "../../assets/pictures/logo-club/parismetropole.svg",
+        "src": "assets/pictures/logo-club/parismetropole.svg",
         "alt": "logo Club Paris Metropole"
     }
 ]

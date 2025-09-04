@@ -1,7 +1,6 @@
 import React from 'react';
 import ProductCard from '../../components/ProductCard/ProductCard';
 import productsCard from '../../data/productsCard.json';
-import homePicture from '../../assets/Pictures/home-picture.jpg'
 import logoClub from '../../data/logos.json';
 import Nav from '../../components/Nav/Nav';
 
@@ -36,7 +35,7 @@ const Home = () => {
                     <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
                     <div className="logo-slider">
                         {logoClub.map((logo, index) => (
-                            <img key={index} src={logo.src} alt={logo.alt} className="confiance-logo" />
+                            <img key={index} src={`${process.env.PUBLIC_URL}/${logo.src}`} alt={logo.alt} className="confiance-logo" />
                         ))}
                     </div>
                 </section>
