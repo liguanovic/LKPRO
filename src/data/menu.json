@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Hauts de sport",
+    "links": [
+      { "label": "Maillots", "to": "/maillots" },
+      { "label": "Tshirt", "to": "/tshirt" },
+      { "label": "Polaire", "to": "/polaire" }
+    ]
+  },
+  {
+    "title": "Équipements",
+    "links": [
+      { "label": "Chasubles", "to": "/chasubles" },
+      { "label": "Bannières", "to": "/bannieres" }
+    ]
+  },
+  {
+    "title": "Accessoires",
+    "links": [
+      { "label": "Sacs", "to": "/sacs" },
+      { "label": "Gourdes", "to": "/gourdes" }
+    ]
+  }
+]

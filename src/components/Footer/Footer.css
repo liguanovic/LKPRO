@@ -1,0 +1,34 @@
+.footer {
+    height: 60px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.footer-links {
+    display: flex;
+    gap: 30px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #333;
+    font-family: Bruno Ace SC, sans-serif;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer p {
+    color: black;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    font-size: 0.7rem;
+}

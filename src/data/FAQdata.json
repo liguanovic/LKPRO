@@ -1,0 +1,28 @@
+{
+  "faq": [
+    {
+      "question": "Quels types de produits propose LK PRO ?",
+      "answer": "LK PRO vend des équipements sportifs personnalisés ainsi que des produits brandés sous notre propre marque."
+    },
+    {
+      "question": "Quels sont les délais de livraison ?",
+      "answer": "La livraison se fait en porte à porte sous 4 à 6 semaines ouvrées après réception du paiement."
+    },
+    {
+      "question": "Quels sont les modes de paiement acceptés ?",
+      "answer": "Le paiement se fait exclusivement par virement bancaire."
+    },
+    {
+      "question": "Puis-je retourner un produit personnalisé ?",
+      "answer": "Les retours sont acceptés uniquement en cas de produit défectueux ou vice caché. Aucun retour ou remboursement n’est possible pour d’autres motifs, sauf reclamation dans les 48 heures suivant le paiement."
+    },
+    {
+      "question": "Quelle est la durée de garantie des produits ?",
+      "answer": "Tous les produits bénéficient d’une garantie légale de 3 mois."
+    },
+    {
+      "question": "Comment puis-je contacter le service client ?",
+      "answer": "Vous pouvez nous contacter via email à l’adresse informations.lkpro@gmail.com , par téléphone au +33 6 09 20 72 02, ou par whatsapp au +33 6 78 50 22 76."
+    }
+  ]
+}
