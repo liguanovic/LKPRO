@@ -1,5 +1,6 @@
 [id="cgv-container"] h2 {
     text-decoration: underline !important;
-    text-decoration-thickness: 0.4em;
-    text-underline-offset: 0.3em;
+    text-decoration-thickness: 0.2em;
+    text-underline-offset: 0.4em;
+    line-height: 1.8;
 }
