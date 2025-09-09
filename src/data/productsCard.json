@@ -1,38 +1,38 @@
 [
     {
-        "image": "assets/pictures/protege-tibias2.png",
-        "title": "Protége tibias",
+        "image": "assets/pictures/products/protege-tibias/protege-tibias2.png",
+        "title": "Protège tibias",
         "alt": "Photo de protège tibias",
-        "link": "/produit-1"
+        "link": "LKPRO/product/protege-tibias"
     },
     {
         "image": "assets/pictures/sac.png",
         "title": "Sacs de sport",
         "alt": "Photo de sacs de sport",
-        "link": "/produit-2"
+        "link": "/product/sacs-de-sport"
     },
     {
         "image": "assets/pictures/haut-de-sport.png",
         "title": "Hauts de sport",
         "alt": "Photo de hauts de sport",
-        "link": "/produit-3"
+        "link": "/product/hauts-de-sport"
     },
     {
         "image": "assets/pictures/bottes.png",
-        "title": "Outils de récuperation",
-        "alt": "Photo de bottes de recuperation",
-        "link": "/produit-3"
+        "title": "Outils de récupération",
+        "alt": "Photo de bottes de récupération",
+        "link": "/product/outils-recuperation"
     },
     {
         "image": "assets/pictures/casquette.png",
         "title": "Casquette / Chapeaux",
         "alt": "Photo de casquette",
-        "link": "/produit-4"
+        "link": "/product/casquette-chapeaux"
     },
     {
         "image": "assets/pictures/fanions.png",
         "title": "Fanions",
         "alt": "Photo de fanions",
-        "link": "/produit-4"
+        "link": "/product/fanions"
     }
 ]

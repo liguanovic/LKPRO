@@ -77,8 +77,8 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.2);
-    color: white;
+    background: white;
+    color: black;
     border: none;
     font-size: 1rem;
     padding: 5px 10px;

@@ -1,4 +1,5 @@
 import about from "../../data/about.json";
+import logoClub from '../../data/logos.json';
 import './About.css';
 
 const About = () => {
@@ -39,6 +40,25 @@ const About = () => {
                                 </li>
                             ))}
                         </ul>
+                    )}
+
+                    {section.heading === "Ils nous font confiance" && (
+                        <section className="confiance">
+                            <h2>Ils nous font confiance</h2>
+                            <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
+                            <div className="logo-slider">
+                                <div className="logo-track">
+                                    {logoClub.concat(logoClub).map((logo, index) => (
+                                        <img
+                                            key={index}
+                                            src={`${process.env.PUBLIC_URL}/${logo.src}`}
+                                            alt={logo.alt}
+                                            className="confiance-logo"
+                                        />
+                                    ))}
+                                </div>
+                            </div>
+                        </section>
                     )}
 
                     {section.heading === "Contactez-nous" && (

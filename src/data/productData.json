@@ -1,0 +1,56 @@
+[
+  {
+    "id": "protege-tibias-001",
+    "slug": "protege-tibias",
+    "name": "Protège-tibias",
+    "description": "Protèges-tibias sportifs résistants et confortables, idéals pour football, futsal, handball et autres sports de contact.\n\nDisponibles en plusieurs couleurs et trois tailles (8 cm, 10 cm, 13 cm)\n\nIls offrent protection, maintien et confort pour tous les niveaux, débutants comme confirmés. Équipement indispensable pour garantir sécurité et performance sur le terrain.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "carbone",
+        "hex": "#625D5D",
+        "images": [
+          "assets/pictures/products/protege-tibias/protege-tibias-carbone1.png",
+          "assets/pictures/products/protege-tibias/protege-tibias-carbone2.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-carbone3.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-carbone4.png"
+        ]
+      },
+        {
+            "name": "noir",
+            "hex": "#000000",
+            "images": [
+            "assets/pictures/products/protege-tibias/protege-tibias-noir1.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-noir2.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-noir3.png"
+            ]
+        },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/protege-tibias/protege-tibias-blanc1.png",
+          "assets/pictures/products/protege-tibias/protege-tibias-blanc2.png"
+        ]
+      },
+        {
+            "name": "bleu",
+            "hex": "#0000FF",
+            "images": [
+            "assets/pictures/products/protege-tibias/protege-tibias-bleu1.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-bleu2.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-bleu3.png"
+            ]
+        },
+        {
+            "name": "vert",
+            "hex": "#08CC0A",
+            "images": [
+            "assets/pictures/products/protege-tibias/protege-tibias-vert1.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-vert2.png",
+            "assets/pictures/products/protege-tibias/protege-tibias-vert3.png"
+            ]
+        }
+    ]
+  }
+]

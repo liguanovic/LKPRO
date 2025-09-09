@@ -1,6 +1,10 @@
 [id="cgv-container"] h2 {
     text-decoration: underline !important;
-    text-decoration-thickness: 0.2em;
+    text-decoration-thickness: 0.1em;
     text-underline-offset: 0.4em;
     line-height: 1.8;
+}
+
+[id="cgv-container"] p {
+    font-family: Montserrat, sans-serif !important;
 }

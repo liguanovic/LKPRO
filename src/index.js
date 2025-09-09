@@ -8,6 +8,7 @@ import Home from './Pages/Home/Home';
 import About from './Pages/About/About';
 import CGV from './Pages/CGV/CGV';
 import FAQ from './Pages/FAQ/FAQ';
+import Product from './Pages/Product/Product';
 
 import reportWebVitals from './reportWebVitals';
 import ScrollToTop from './components/ScrollTop/ScrollTop';
@@ -25,6 +26,7 @@ root.render(
         <Route path="/About" element={<About />} />
         <Route path="/CGV" element={<CGV />} />
         <Route path="/FAQ" element={<FAQ />} />
+        <Route path="/product/:slug" element={<Product />} />
 
       </Routes>
       <Footer />

@@ -1,24 +1,56 @@
 [
   {
-    "title": "Hauts de sport",
+    "title": "Vêtements",
     "links": [
-      { "label": "Maillots", "to": "/maillots" },
-      { "label": "Tshirt", "to": "/tshirt" },
-      { "label": "Polaire", "to": "/polaire" }
+      { "label": "T-shirts", "to": "/tshirts" },
+      { "label": "Polaires", "to": "/polaires" },
+      { "label": "Vestes de sport", "to": "/vestes-de-sport" },
+      { "label": "Chaussettes", "to": "/chaussettes" },
+      { "label": "Chasubles", "to": "/chasubles" }
     ]
   },
   {
-    "title": "Équipements",
+    "title": "Protège-tibias",
     "links": [
-      { "label": "Chasubles", "to": "/chasubles" },
-      { "label": "Bannières", "to": "/bannieres" }
+      { "label": "Protège-tibias", "to": "/protege-tibias" }
     ]
   },
   {
-    "title": "Accessoires",
+    "title": "Tête & Cou",
     "links": [
-      { "label": "Sacs", "to": "/sacs" },
-      { "label": "Gourdes", "to": "/gourdes" }
+      { "label": "Casquettes", "to": "/casquettes" },
+      { "label": "Cagoules", "to": "/cagoules" },
+      { "label": "Cache-cous", "to": "/cache-cous" }
+    ]
+  },
+  {
+    "title": "Protections",
+    "links": [
+      { "label": "Genouillères", "to": "/genouilleres" },
+      { "label": "Manchettes", "to": "/manchettes" },
+      { "label": "Jambières", "to": "/jambieres" }
+    ]
+  },
+  {
+    "title": "Sacs",
+    "links": [
+      { "label": "Sac de sport", "to": "/sac-de-sport" },
+      { "label": "Sac à ficelle", "to": "/sac-a-ficelle" }
+    ]
+  },
+  {
+    "title": "Matériel de Terrain",
+    "links": [
+      { "label": "Bâche de stade", "to": "/bache-de-stade" },
+      { "label": "Fanions", "to": "/fanions" }
+    ]
+  },
+  {
+    "title": "Outils de Récupération",
+    "links": [
+      { "label": "Masseur", "to": "/masseur" },
+      { "label": "bottes pressothérapie", "to": "/bottes-pressotherapie" }
     ]
   }
 ]
+
