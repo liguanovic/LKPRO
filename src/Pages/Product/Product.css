@@ -5,11 +5,21 @@
     box-sizing: border-box;
 }
 
+.product-title {
+    font-size: 1.9rem;
+}
+
 .product-info h1 {
     text-align: center;
     font-size: 1.5rem;
     margin: 0 0 1rem 0;
 
+}
+
+.product-page a {
+    padding: 0 10px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .product-main-image {
@@ -82,8 +92,12 @@
     transform: scale(1.05);
 }
 
-.product-description p {
+.product-description {
     margin: 2rem 0;
+}
+
+.product-description p {
+    margin: 1rem 0;
     font-size: 1rem;
     font-family: Montserrat, sans-serif !important;
 }

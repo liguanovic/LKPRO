@@ -52,5 +52,259 @@
             ]
         }
     ]
+  },
+  {
+    "id": "sacs-a-ficelle-001",
+    "slug": "sacs-a-ficelle",
+    "name": "sacs à ficelle",
+    "description": "Sac à ficelle de sport résistant, léger et pratique, parfait pour transporter vos vêtements, chaussures ou accessoires d'entraînement. Idéal pour le football, la salle de sport, le running, le handball ou toute activité physique.\n\nDisponible en deux tailles :\n\n- 43×32 cm\n\n- 48×37 cm\n\nPlusieurs coloris disponibles.\n\nPersonnalisable avec votre logo, ce sac est un excellent choix pour les clubs sportifs, les événements ou les cadeaux promotionnels. Un indispensable pour tout sportif, débutant ou confirmé.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle1.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle2.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle3.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle22.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle4.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle19.png"
+        ]
+      },
+      {
+        "name": "bleu marine",
+        "hex": "#000080",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle5.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle6.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle23.png"
+        ]
+      },  
+      {
+        "name": "bleu",
+        "hex": "#0000FF",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle21.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle20.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle24.png"
+        ]
+      },
+      {
+        "name": "bleu ciel",
+        "hex": "#87CEEB",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle17.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle18.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle25.png"
+        ]
+      },
+      {
+        "name": "rouge",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle9.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle10.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle26.png"
+        ]
+      },
+      {
+        "name": "vert",
+        "hex": "#08CC0A",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle11.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle12.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle27.png"
+        ]
+      },  
+      {
+        "name": "orange",
+        "hex": "#FFA500",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle13.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle14.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle28.png"
+        ]
+      },
+      {
+        "name": "jaune",
+        "hex": "#FFFF00",
+        "images": [
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle15.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle16.png",
+          "assets/pictures/products/sac-a-ficelle/sac-a-ficelle29.png"
+        ]
+      }
+    ]
+      },
+  {
+    "id": "bottes-pressotherapie-001",
+    "slug": "bottes-pressotherapie",
+    "name": "Bottes pressothérapie",
+    "description": "Bottes de pressothérapie professionnelles pour une récupération musculaire optimale. Conçues pour améliorer la circulation sanguine, réduire la fatigue et accélérer la récupération après l'effort physique.\n\nFaciles à utiliser, elles offrent un confort exceptionnel grâce à leur design ergonomique et leurs matériaux de haute qualité.\n\nIdéales pour les athlètes, les sportifs réguliers et les personnes recherchant un soin de bien-être. Un investissement essentiel pour la santé et la performance.\n\nPossibilité de personnalisation avec logo, minimum de commande requis.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie1.png",
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie2.png",
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie3.png",
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie4.png",
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie6.png",
+          "assets/pictures/products/bottes-pressotherapie/bottes-pressotherapie7.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fanions-001",
+    "slug": "fanions",
+    "name": "Fanions",
+    "description": "Fanions de sport parfaits pour les clubs, équipes et événements sportifs. Fabriqués en polyester résistant, ils sont conçus pour durer et résister avec le temps.\n\nDimensions et couleurs entierement personnalisables. Personnalisez-les avec votre logo, nom d'équipe ou couleurs pour un look unique et professionnel.\n\nIdéal pour les matchs, tournois et cérémonies de remise de prix. Commande minimum requise pour la personnalisation.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/fanion/fanion1.png",
+          "assets/pictures/products/fanion/fanion2.png",
+          "assets/pictures/products/fanion/fanion3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casquette-001",
+    "slug": "casquette",
+    "name": "Casquette",
+    "description": "Casquettes de sport, parfaits pour protéger du soleil lors de vos activités en extérieur. Fabriqués avec des matériaux respirants et légers, ils offrent un confort optimal tout au long de la journée.\n\nDisponibles en plusieurs couleurs et styles pour s'adapter à vos préférences. Personnalisables avec votre logo ou design, ces casquettes sont idéales pour les clubs sportifs, les événements ou les cadeaux promotionnels.\n\nPlus de couleurs disponibles sur demande.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/casquette/casquette1.png",
+          "assets/pictures/products/casquette/casquette2.webp",
+          "assets/pictures/products/casquette/casquette3.webp"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/casquette/casquette15.webp",
+          "assets/pictures/products/casquette/casquette16.webp"
+        ]
+      },
+      {
+        "name": "bleu marine",
+        "hex": "#000080",
+        "images": [
+          "assets/pictures/products/casquette/casquette17.webp",
+          "assets/pictures/products/casquette/casquette18.webp"
+        ]
+      },
+      {
+        "name": "gris",
+        "hex": "#808080",
+        "images": [
+          "assets/pictures/products/casquette/casquette4.webp",
+          "assets/pictures/products/casquette/casquette5.webp"
+        ]
+      },
+      {
+        "name": "rose",
+        "hex": "#ff69b4",
+        "images": [
+          "assets/pictures/products/casquette/casquette6.webp",
+          "assets/pictures/products/casquette/casquette7.webp",
+          "assets/pictures/products/casquette/casquette8.webp"
+        ]
+      },
+      {
+        "name": "rouge",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/casquette/casquette9.webp",
+          "assets/pictures/products/casquette/casquette10.webp"
+        ]
+      },
+      {
+        "name": "vert foncé",
+        "hex": "#006400",
+        "images": [
+          "assets/pictures/products/casquette/casquette11.webp",
+          "assets/pictures/products/casquette/casquette12.webp"
+        ]
+      },
+      {
+        "name": "orange",
+        "hex": "#FFA500",
+        "images": [
+          "assets/pictures/products/casquette/casquette13.webp",
+          "assets/pictures/products/casquette/casquette14.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "veste-running-001",
+    "slug": "veste-running",
+    "name": "Veste Running",
+    "description": "Veste de running légère et respirante, conçue pour offrir confort et performance lors de vos séances de course à pied. Fabriquée avec des matériaux techniques, elle assure une excellente gestion de l'humidité et une protection contre le vent.\n\nDotée de plusieurs poches pratiques pour ranger vos essentiels, cette veste est idéale pour les coureurs de tous niveaux. Disponible en plusieurs couleurs et tailles.\n\nPersonnalisable avec votre logo ou design, parfait pour les clubs de course, les événements ou les cadeaux promotionnels.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/veste-running/2.png",
+          "assets/pictures/products/veste-running/3.png",
+          "assets/pictures/products/veste-running/4.png",
+          "assets/pictures/products/veste-running/5.png",
+          "assets/pictures/products/veste-running/6.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/veste-running/8.png",
+          "assets/pictures/products/veste-running/7.png",
+          "assets/pictures/products/veste-running/9.png",
+          "assets/pictures/products/veste-running/10.png",
+          "assets/pictures/products/veste-running/11.png"
+        ]
+      },
+      {
+        "name": "beige",
+        "hex": "#aoa69e",
+        "images": [
+          "assets/pictures/products/veste-running/12.png",
+          "assets/pictures/products/veste-running/13.png",
+          "assets/pictures/products/veste-running/14.png",
+          "assets/pictures/products/veste-running/15.png",
+          "assets/pictures/products/veste-running/16.png"
+        ]
+      },
+      {
+        "name": "vert foncé",
+        "hex": "#1b3b3a",
+        "images": [
+          "assets/pictures/products/veste-running/17.png",
+          "assets/pictures/products/veste-running/18.png",
+          "assets/pictures/products/veste-running/19.png",
+          "assets/pictures/products/veste-running/20.png",
+          "assets/pictures/products/veste-running/21.png"
+        ]
+      }
+    ]
   }
 ]
+
+  
+

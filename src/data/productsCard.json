@@ -7,27 +7,27 @@
     },
     {
         "image": "assets/pictures/sac.png",
-        "title": "Sacs de sport",
+        "title": "Sacs à ficelle",
         "alt": "Photo de sacs de sport",
-        "link": "/product/sacs-de-sport"
+        "link": "/product/sacs-a-ficelle"
     },
     {
-        "image": "assets/pictures/haut-de-sport.png",
-        "title": "Hauts de sport",
+        "image": "assets/pictures/products/veste-running/1.png",
+        "title": "Veste Running",
         "alt": "Photo de hauts de sport",
-        "link": "/product/hauts-de-sport"
+        "link": "/product/veste-running"
     },
     {
-        "image": "assets/pictures/bottes.png",
-        "title": "Outils de récupération",
+        "image": "assets/pictures/bottes-pressotherapie1.png",
+        "title": "Bottes pressothérapie",
         "alt": "Photo de bottes de récupération",
-        "link": "/product/outils-recuperation"
+        "link": "/product/bottes-pressotherapie"
     },
     {
         "image": "assets/pictures/casquette.png",
-        "title": "Casquette / Chapeaux",
+        "title": "Casquettes",
         "alt": "Photo de casquette",
-        "link": "/product/casquette-chapeaux"
+        "link": "/product/casquette"
     },
     {
         "image": "assets/pictures/fanions.png",
