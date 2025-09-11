@@ -1,0 +1,31 @@
+.error-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.error-page h1 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
+.error-page p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.error-page button {
+    width: fit-content;
+    padding: 0.9rem 2rem;
+    background: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin: 4rem 0;
+    text-transform: uppercase;
+    font-family: Bruno Ace SC, sans-serif;
+}

@@ -1,15 +1,23 @@
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
 import productData from '../../data/productData.json';
 import './Product.css';
 
 const Product = () => {
     const { slug } = useParams();
+    const navigate = useNavigate();
     const product = productData.find(p => p.slug === slug);
 
     const [selectedColor, setSelectedColor] = useState(null);
     const [mainImage, setMainImage] = useState(null);
     const carouselRef = useRef(null);
+
+    // Redirection vers /error si produit non trouvé
+    useEffect(() => {
+        if (!product) {
+            navigate('/error');
+        }
+    }, [product, navigate]);
 
     useEffect(() => {
         if (!product) return;
@@ -18,11 +26,7 @@ const Product = () => {
         if (defaultColorData) setMainImage(defaultColorData.images[0]);
     }, [slug, product]);
 
-    if (!product) return (
-        <main className="product-page">
-            <p>Produit non trouvé.</p>
-        </main>
-    );
+    if (!product) return null;  // Pas de rendu pendant redirection
 
     const currentColorData = product.colors.find(c => c.name === selectedColor) || product.colors[0];
 
@@ -99,7 +103,6 @@ const Product = () => {
                         <p key={index}>{paragraph}</p>
                     ))}
                 </div>
-
 
                 {/* CTA */}
                 <section className="product-footer">

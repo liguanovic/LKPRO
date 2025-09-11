@@ -2,54 +2,63 @@
   {
     "title": "Vêtements",
     "links": [
-      { "label": "T-shirts", "to": "/tshirts" },
-      { "label": "Polaires", "to": "/polaires" },
-      { "label": "Vestes de sport", "to": "/vestes-de-sport" },
-      { "label": "Chaussettes", "to": "/chaussettes" },
-      { "label": "Chasubles", "to": "/chasubles" }
+      { "label": "T-shirts", "to": "/product/tshirts" },
+      { "label": "Polaires", "to": "/product/polaires" },
+      { "label": "Veste Running", "to": "/product/veste-running" },
+      { "label": "Vestes de sport", "to": "/product/vestes-de-sport" }
+    ]
+  },
+  {
+    "title": "Chaussettes",
+    "links": [
+      { "label": "Chaussettes basses", "to": "/product/chaussettes-basses" },
+      { "label": "Chaussettes hautes", "to": "/product/chaussettes-hautes" },
+      { "label": "Chaussettes adherentes", "to": "/product/chaussettes-adherentes" },
+      { "label": "Sur-chaussettes", "to": "/product/sur-chaussettes" }
     ]
   },
   {
     "title": "Protège-tibias",
     "links": [
-      { "label": "Protège-tibias", "to": "/protege-tibias" }
+      { "label": "Protège-tibias", "to": "/product/protege-tibias" }
     ]
   },
   {
     "title": "Tête & Cou",
     "links": [
-      { "label": "Casquettes", "to": "/casquettes" },
-      { "label": "Cagoules", "to": "/cagoules" },
-      { "label": "Cache-cous", "to": "/cache-cous" }
+      { "label": "Casquette", "to": "/product/casquette" },
+      { "label": "Cagoule", "to": "/product/cagoules" },
+      { "label": "Cache-cou", "to": "/product/cache-cous" }
     ]
   },
   {
     "title": "Protections",
     "links": [
-      { "label": "Genouillères", "to": "/genouilleres" },
-      { "label": "Manchettes", "to": "/manchettes" },
-      { "label": "Jambières", "to": "/jambieres" }
+      { "label": "Genouillères", "to": "/product/genouilleres" },
+      { "label": "Manchettes", "to": "/product/manchettes" },
+      { "label": "Jambières", "to": "/product/jambieres" }
     ]
   },
   {
     "title": "Sacs",
     "links": [
-      { "label": "Sac de sport", "to": "/sac-de-sport" },
-      { "label": "Sac à ficelle", "to": "/sac-a-ficelle" }
+      { "label": "Sac de sport", "to": "/product/sac-de-sport" },
+      { "label": "Sac à ficelle", "to": "/product/sac-a-ficelle" }
     ]
   },
   {
-    "title": "Matériel de Terrain",
+    "title": "Matériel de Sport",
     "links": [
-      { "label": "Bâche de stade", "to": "/bache-de-stade" },
-      { "label": "Fanions", "to": "/fanions" }
+      { "label": "Bâche de stade", "to": "/product/bache-de-stade" },
+      { "label": "Fanions", "to": "/product/fanions" },
+            { "label": "Chasubles", "to": "/product/chasubles" }
     ]
   },
   {
     "title": "Outils de Récupération",
     "links": [
-      { "label": "Masseur", "to": "/masseur" },
-      { "label": "bottes pressothérapie", "to": "/bottes-pressotherapie" }
+      { "label": "Masseur", "to": "/product/masseur" },
+      { "label": "Bottes Pressothérapie", "to": "/product/bottes-pressotherapie" }
     ]
   }
 ]

@@ -140,7 +140,7 @@
   {
     "id": "bottes-pressotherapie-001",
     "slug": "bottes-pressotherapie",
-    "name": "Bottes pressothérapie",
+    "name": "Bottes Pressothérapie",
     "description": "Bottes de pressothérapie professionnelles pour une récupération musculaire optimale. Conçues pour améliorer la circulation sanguine, réduire la fatigue et accélérer la récupération après l'effort physique.\n\nFaciles à utiliser, elles offrent un confort exceptionnel grâce à leur design ergonomique et leurs matériaux de haute qualité.\n\nIdéales pour les athlètes, les sportifs réguliers et les personnes recherchant un soin de bien-être. Un investissement essentiel pour la santé et la performance.\n\nPossibilité de personnalisation avec logo, minimum de commande requis.",
     "defaultColor": "noir",
     "colors": [
@@ -303,8 +303,153 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sur-chaussettes-001",
+    "slug": "sur-chaussettes",
+    "name": "Sur-chaussettes",
+    "description": "Sur-chaussettes de sport conçues pour offrir un maintien optimal et une protection supplémentaire lors de vos activités sportives. Fabriquées avec des matériaux élastiques et respirants, elles assurent un confort maximal tout en réduisant les risques de blessures.\n\nIdéales pour le football, le running, le basketball et autres sports. Disponibles en plusieurs tailles et couleurs.\n\nPersonnalisables avec votre logo ou design, parfaites pour les clubs sportifs.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette1.png",
+          "assets/pictures/products/sur-chaussettes/sur-chaussette2.png",
+          "assets/pictures/products/sur-chaussettes/sur-chaussette3.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette4.png",
+          "assets/pictures/products/sur-chaussettes/sur-chaussette5.png",
+          "assets/pictures/products/sur-chaussettes/sur-chaussette6.png"
+        ]
+      },
+      {
+        "name": "bleu",
+        "hex": "#0000FF",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette7.png"
+        ]
+      },
+      {
+        "name": "bleu ciel",
+        "hex": "#00FFFF",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette9.png"
+        ]
+      },
+      {
+        "name": "bleu marine",
+        "hex": "#000080",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette10.png"
+        ]
+      },
+      {
+        "name": "rouge",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette11.png"
+        ]
+      },
+      {
+        "name": "jaune fluo",
+        "hex": "#FFFF00",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette12.png"
+        ]
+      },
+      {
+        "name": "jaune fonce",
+        "hex": "#FFD700",
+        "images": [
+          "assets/pictures/products/sur-chaussettes/sur-chaussette13.png"
+        ]
+      }
+    ]
+  },
+  {
+  "id": "genouilleres-001",
+    "slug": "genouilleres",
+    "name": "Genouillères",
+    "description": "Genouillères de sport offrant un excellent maintien et une protection efficace pour les genoux lors de vos activités physiques. Fabriquées avec des matériaux élastiques et respirants, elles assurent un confort optimal tout en réduisant les risques de blessures.\n\nIdéales pour le volleyball, le basketball, le handball et autres sports. Disponibles en plusieurs tailles et couleurs.\n\nPersonnalisables avec votre logo ou design, parfaites pour les clubs sportifs.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/genouilleres/genouillere1.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/genouilleres/genouillere3.png"
+        ]
+      },
+      {
+        "name": "rouge",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/genouilleres/genouillere2.png"
+        ]
+      },
+      {
+        "name": "bleu ",
+        "hex": "#0000FF",
+        "images": [
+          "assets/pictures/products/genouilleres/genouillere4.png"
+        ]
+      }
+    ]
+  },
+  {
+  "id": "manchettes-001",
+    "slug": "manchettes",
+    "name": "Manchettes",
+    "description": "Manchettes de sport conçues pour offrir une protection et un confort optimal lors de vos activités physiques. Fabriquées avec des matériaux élastiques et respirants, elles assurent une bonne circulation sanguine tout en réduisant la fatigue musculaire.\n\nIdéales pour le running, le cyclisme, le basketball et autres sports. Disponibles en plusieurs tailles et couleurs.\n\nPersonnalisables avec votre logo ou design, parfaites pour les clubs sportifs.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/manchettes/manchettes1.png",
+          "assets/pictures/products/manchettes/manchettes2.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/manchettes/manchettes3.png",
+          "assets/pictures/products/manchettes/manchettes4.png"
+        ]
+      },
+      {
+        "name": "bleu",
+        "hex": "#000080",
+        "images": [
+          "assets/pictures/products/manchettes/manchettes5.png",
+          "assets/pictures/products/manchettes/manchettes6.png"
+        ]
+      },
+      {
+        "name": "rouge ",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/manchettes/manchettes7.png",
+          "assets/pictures/products/manchettes/manchettes8.png"
+        ]
+      }
+    ]
   }
 ]
-
-  
 
