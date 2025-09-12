@@ -450,6 +450,121 @@
         ]
       }
     ]
+  },
+  {
+    "id": "chasubles-001",
+    "slug": "chasubles",
+    "name": "Chasubles",
+    "description": "Chasubles de sport légers et respirants, parfaits pour les entraînements et les matchs. Fabriqués avec des matériaux de haute qualité, ils offrent un confort optimal et une excellente durabilité.\n\nDisponibles en plusieurs couleurs vives pour une visibilité maximale sur le terrain. Idéaux pour le football, le basketball, le handball et autres sports d'équipe.\n\nPersonnalisables avec votre logo ou design, ces chasubles sont parfaits pour les clubs sportifs, les écoles ou les événements.",
+    "defaultColor": "jaune fluo",
+    "colors": [
+      {
+        "name": "jaune fluo",
+        "hex": "#CCFF00",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble1.png",
+          "assets/pictures/products/chasubles/chasuble2.png",
+          "assets/pictures/products/chasubles/chasuble3.png",
+          "assets/pictures/products/chasubles/chasuble4.png",
+          "assets/pictures/products/chasubles/chasuble5.png"
+        ]
+      },
+      {
+        "name": "jaune",
+        "hex": "#FFFF00",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble6.png",
+          "assets/pictures/products/chasubles/chasuble7.png",
+          "assets/pictures/products/chasubles/chasuble8.png",
+          "assets/pictures/products/chasubles/chasuble9.png",
+          "assets/pictures/products/chasubles/chasuble10.png"
+        ]
+      },
+      {
+        "name": "rouge",
+        "hex": "#FF0000",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble11.png",
+          "assets/pictures/products/chasubles/chasuble12.png",
+          "assets/pictures/products/chasubles/chasuble13.png",
+          "assets/pictures/products/chasubles/chasuble14.png",
+          "assets/pictures/products/chasubles/chasuble15.png"
+        ]
+      },
+      {
+        "name": "vert fonce",
+        "hex": "#006400",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble16.png",
+          "assets/pictures/products/chasubles/chasuble17.png",
+          "assets/pictures/products/chasubles/chasuble18.png",
+          "assets/pictures/products/chasubles/chasuble19.png",
+          "assets/pictures/products/chasubles/chasuble20.png"
+        ]
+      },
+      {
+        "name": "bleu",
+        "hex": "#0000FF",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble21.png",
+          "assets/pictures/products/chasubles/chasuble22.png",
+          "assets/pictures/products/chasubles/chasuble23.png",
+          "assets/pictures/products/chasubles/chasuble24.png",
+          "assets/pictures/products/chasubles/chasuble25.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/chasubles/chasuble26.png",
+          "assets/pictures/products/chasubles/chasuble27.png",
+          "assets/pictures/products/chasubles/chasuble28.png",
+          "assets/pictures/products/chasubles/chasuble29.png",
+          "assets/pictures/products/chasubles/chasuble30.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baches-001",
+    "slug": "baches",
+    "name": "Bâches",
+    "description": "Bâches de protection robustes et durables, idéales pour couvrir et protéger vos équipements sportifs, terrains ou installations. Fabriquées avec des matériaux résistants aux intempéries, elles offrent une excellente protection contre la pluie, le vent et les rayons UV.\n\nDisponibles en plusieurs tailles et couleurs sur mesure pour s'adapter à vos besoins spécifiques. Parfaites pour les clubs sportifs, les événements en plein air.\n\nPersonnalisables avec votre logo ou design, ces bâches sont un excellent choix pour une visibilité accrue.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/baches/baches1.png",
+          "assets/pictures/products/baches/baches2.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jambières-001",
+    "slug": "jambieres",
+    "name": "Jambières",
+    "description": "Jambières de sport conçues pour offrir une protection et un confort optimal lors de vos activités physiques. Fabriquées avec des matériaux élastiques et respirants, elles assurent une bonne circulation sanguine tout en réduisant la fatigue musculaire.\n\nIdéales pour le football, le rugby, le cyclisme et autres sports. Disponibles en plusieurs tailles et couleurs.\n\nPersonnalisables avec votre logo ou design, parfaites pour les clubs sportifs.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [   
+          "assets/pictures/products/jambieres/jambieres1.png"
+        ]
+      },
+      {
+        "name": "blanc",
+        "hex": "#ffffff",
+        "images": [
+          "assets/pictures/products/jambieres/jambieres2.png"
+        ]
+      }
+    ]
   }
 ]
 
