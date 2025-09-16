@@ -371,6 +371,10 @@
         padding: 0 40px;
     }
 
+    .product-page h1 {
+        margin: 20px 0;
+    }
+
     .product-main-and-controls {
         display: flex;
         justify-content: center;

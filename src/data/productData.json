@@ -141,7 +141,7 @@
     "id": "bottes-pressotherapie-001",
     "slug": "bottes-pressotherapie",
     "name": "Bottes Pressothérapie",
-    "description": "Bottes de pressothérapie professionnelles pour une récupération musculaire optimale. Conçues pour améliorer la circulation sanguine, réduire la fatigue et accélérer la récupération après l'effort physique.\n\nFaciles à utiliser, elles offrent un confort exceptionnel grâce à leur design ergonomique et leurs matériaux de haute qualité.\n\nIdéales pour les athlètes, les sportifs réguliers et les personnes recherchant un soin de bien-être. Un investissement essentiel pour la santé et la performance.\n\nPossibilité de personnalisation avec logo, minimum de commande requis.",
+    "description": "Bottes de pressothérapie professionnelles pour une récupération musculaire optimale. Conçues pour améliorer la circulation sanguine, réduire la fatigue et accélérer la récupération après l'effort physique.\n\nFaciles à utiliser, elles offrent un confort exceptionnel grâce à leur design ergonomique et leurs matériaux de haute qualité.\n\nIdéales pour les athlètes, les sportifs réguliers et les personnes recherchant un soin de bien-être. Un investissement essentiel pour la santé et la performance.\n\nD'autres modéles didsponibles sur demande.Possibilité de personnalisation avec logo, minimum de commande requis.",
     "defaultColor": "noir",
     "colors": [
       {
@@ -565,6 +565,267 @@
         ]
       }
     ]
+  },
+  {
+    "id": "pistolet-masseur-001",
+    "slug": "pistolet-masseur",
+    "name": "Pistolet masseur",
+  "description": "Pistolet masseur conçu pour offrir un soulagement musculaire rapide et un confort optimal lors de vos activités physiques. Fabriqué avec des matériaux ergonomiques et durables, il améliore la circulation sanguine et aide à réduire la fatigue musculaire après l'effort.\n\nIdéal pour la récupération musculaire après le sport, notamment pour les athlètes pratiquant le football, le rugby, le cyclisme, ou toute autre discipline nécessitant une bonne récupération post-entraînement. Disponible en plusieurs modèles, coloris et accessoires sur demande. D'autres modèles sont également disponibles selon vos besoins.\n\nPistolet de massage personnalisable, avec votre logo ou design, parfait pour les clubs sportifs, les athlètes professionnels, ou pour ceux cherchant à optimiser leur récupération musculaire.",
+    "defaultColor": "noir",
+    "colors": [
+      {
+         "name": "noir clair",
+        "hex": "#333333",
+        "images": [
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur1.jpg",
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur2.jpg",
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur3.jpg"
+        ]
+      },
+      {
+        "name": "noir",
+        "hex": "#000000",
+        "images": [
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur4.jpg",
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur5.jpg",
+          "assets/pictures/products/pistolet-masseur/pistolet-masseur6.jpg"
+        ]
+      }
+    ]
+  },
+  {
+  "id": "cagoules",
+  "slug": "cagoules",
+  "name": "Cagoules",
+  "description": "Cagoules conçues pour offrir une protection optimale contre le froid et les intempéries lors de vos activités extérieures. Fabriquées avec des matériaux respirants et isothermes, elles garantissent un confort exceptionnel tout en préservant la chaleur corporelle.\n\nIdéales pour le football, le ski, le snowboard, la randonnée, ainsi que pour toute activité en extérieur nécessitant une protection contre le froid.\n\nCagoules personnalisables avec votre logo ou design, parfaites pour les équipes sportives, les groupes et les événements.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/cagoules/cagoules1.png"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/cagoules/cagoules2.png"
+      ]
+    },
+    {
+      "name": "bleu",
+      "hex": "#0000FF",
+      "images": [
+        "assets/pictures/products/cagoules/cagoules3.png"
+      ]
+    }
+  ]
+},
+{
+  "id": "cache-cou",
+  "slug": "cache-cou",
+  "name": "Cache-cou",
+  "description": "Cache-cou conçu pour offrir une protection optimale contre le froid et le vent lors de vos activités extérieures. Fabriqué avec des matériaux respirants et isothermes, il assure une protection thermique tout en maintenant un confort exceptionnel.\n\nIdéal pour le ski, le snowboard, la randonnée, ainsi que pour toute activité nécessitant une protection contre les intempéries. Disponible en couleur noire, ce cache-cou est également personnalisable avec votre logo ou design, parfait pour les clubs sportifs, les groupes et les événements.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/cache-cou/cache-cou1.png",
+        "assets/pictures/products/cache-cou/cache-cou2.png",
+        "assets/pictures/products/cache-cou/cache-cou3.jpg",
+        "assets/pictures/products/cache-cou/cache-cou4.png",
+        "assets/pictures/products/cache-cou/cache-cou5.png"
+      ]
+    }
+  ]
+},
+{
+  "id": "chaussettes-basses",
+  "slug": "chaussettes-basses",
+  "name": "Chaussettes basses",
+  "description": "Les chaussettes basses allient style, confort et performance, idéales pour les athlètes modernes. Conçues pour offrir un excellent maintien du pied et une respirabilité optimale, elles sont parfaites pour le football et autres sports. Leur coupe basse et leur design épuré répondent aux dernières tendances en matière d'équipement sportif, permettant aux joueurs de rester élégants tout en maximisant leur confort sur le terrain.\n\nFabriquées avec des matériaux de haute qualité, ces chaussettes assurent une meilleure circulation de l'air, évitant la surchauffe et les irritations, même pendant les entraînements intensifs ou les matchs. Disponibles en deux couleurs classiques : noir et blanc, elles s'intègrent facilement à tous les types de tenues sportives.\n\nUn choix parfait pour les clubs sportifs, les événements, ou pour les joueurs cherchant à allier performance et esthétique moderne.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/chaussettes-basses/chaussettes-basses1.jpg",
+        "assets/pictures/products/chaussettes-basses/chaussettes-basses2.jpg"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/chaussettes-basses/chaussettes-basses3.jpg",
+        "assets/pictures/products/chaussettes-basses/chaussettes-basses4.jpg"
+      ]
+    }
+  ]
+},
+{
+  "id": "chaussettes-hautes",
+  "slug": "chaussettes-hautes",
+  "name": "Chaussettes hautes",
+  "description": "Les chaussettes hautes sont un élément clé de l'équipement sportif pour ceux qui recherchent performance, confort et style. Conçues pour offrir un soutien musculaire optimal, elles améliorent la circulation sanguine et réduisent la fatigue pendant l'effort. Que ce soit pour le football, le rugby, le basketball, la course à pied, le cyclisme ou encore la randonnée, ces chaussettes sont faites pour s'adapter à tous les sports et à toutes les intensités.\n\nFabriquées avec des matériaux respirants et anti-humidité, elles garantissent un confort maximum tout au long de l'activité. Leur compression légère aide à stabiliser les muscles et à prévenir les blessures tout en maintenant un excellent niveau de confort. Disponibles en plusieurs couleurs, ces chaussettes sont non seulement pratiques mais aussi modernes, ajoutant une touche d'élégance à vos tenues sportives.\n\nLes chaussettes hautes sont également personnalisables avec votre logo ou design, ce qui en fait un choix parfait pour les clubs sportifs, les équipes et les événements.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes1.jpg",
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes2.jpg"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes3.jpg",
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes4.jpg"
+      ]
+    },
+    {
+      "name": "bleu marine",
+      "hex": "#000080",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes5.jpg"
+      ]
+    },
+    {
+      "name": "bleu",
+      "hex": "#0000FF",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes6.jpg"
+      ]
+    },
+    {
+      "name": "bleu ciel",
+      "hex": "#87CEEB",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes7.jpg"
+      ]
+    },
+    {
+      "name": "rouge",
+      "hex": "#FF0000",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes8.jpg"
+      ]
+    },
+    {
+      "name": "vert",
+      "hex": "#008000",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes10.jpg"
+      ]
+    },
+    {
+      "name": "orange",
+      "hex": "#FFA500",
+      "images": [
+        "assets/pictures/products/chaussettes-hautes/chaussettes-hautes9.jpg"
+      ]
+    },
+    {
+    "name": "jaune",
+    "hex": "#FFFF00",
+    "images": [
+      "assets/pictures/products/chaussettes-hautes/chaussettes-hautes11.jpg"
+    ]
   }
+  ]
+},
+{
+  "id": "veste-sport",
+  "slug": "veste-de-sport",
+  "name": "Veste de sport Zipper",
+  "description": "La veste de sport zipper est l'alliance parfaite entre confort, performance et style. Conçue pour accompagner les athlètes et les passionnés de sport dans leurs entraînements et compétitions, cette veste légère et respirante assure une excellente régulation thermique, idéale pour les sessions extérieures ou les échauffements. Grâce à son design moderne et épuré, elle s'adapte parfaitement à toutes les morphologies et offre une grande liberté de mouvement, ce qui en fait un choix incontournable pour les sportifs.\n\nFabriquée avec des matériaux de haute qualité, cette veste est dotée d'une fermeture éclair robuste et d'une coupe ajustée qui garantit à la fois confort et praticité. Son tissu respirant permet de maintenir une température corporelle idéale tout en évacuant efficacement la transpiration. Elle est parfaite pour le running, le football, le basketball, le cyclisme, ou toute autre activité physique nécessitant une mobilité optimale.\n\nLa veste de sport zipper est disponible en plusieurs coloris, et peut être personnalisée avec votre logo ou design, idéal pour les clubs sportifs, les équipes et les événements. Que vous soyez un athlète professionnel ou un passionné de sport, cette veste vous accompagnera partout avec style et performance.",
+  "defaultColor": "blanc",
+  "colors": [
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/veste-de-sport/veste-sport1.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport2.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport3.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport4.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport5.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport6.jpg"
+      ]
+    },
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/veste-de-sport/veste-sport7.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport8.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport9.jpg"
+      ]
+    },
+    {
+      "name": "gris",
+      "hex": "#808080",
+      "images": [
+        "assets/pictures/products/veste-de-sport/veste-sport10.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport11.jpg",
+        "assets/pictures/products/veste-de-sport/veste-sport12.jpg"
+      ]
+    }
+  ]
+},
+{
+  "id": "polo",
+  "slug": "polo",
+  "name": "Polo de sport",
+"description": "Le polo de sport élégant est conçu pour ceux qui recherchent un look soigné tout en restant dans un environnement sportif. Il est parfait pour des événements sportifs semi-formels, des réceptions, des galas, ou des déplacements d’équipe. Idéal pour des activités légères, ce polo offre un confort optimal tout en permettant une grande liberté de mouvement, tout en conservant une allure professionnelle et stylée. \n\nQue ce soit pour une remise de prix, des événements de sponsors, ou des réunions d’équipe, ce polo de sport est un choix incontournable pour les clubs et les athlètes souhaitant se distinguer avec élégance. Le tissu léger et respirant permet un confort tout au long de la journée, tandis que la coupe moderne assure une silhouette soignée. \n\nDisponible en plusieurs couleurs il peut être personnalisé avec un logo, le nom de votre club, ou tout autre design pour renforcer votre identité visuelle. Le polo est la solution idéale pour des événements sociaux ou des activités légères où style et performance sont essentiels.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/polo/polo1.png",
+        "assets/pictures/products/polo/polo2.png",
+        "assets/pictures/products/polo/polo3.jpg"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/polo/polo4.png",
+        "assets/pictures/products/polo/polo5.png",
+        "assets/pictures/products/polo/polo6.jpg"
+      ]
+    },
+    {
+      "name": "bleu",
+      "hex": "#0000FF",
+      "images": [
+        "assets/pictures/products/polo/polo7.png",
+        "assets/pictures/products/polo/polo8.png",
+        "assets/pictures/products/polo/polo9.jpg"
+      ]
+    },
+    {
+      "name": "rouge",
+      "hex": "#FF0000",
+      "images": [
+        "assets/pictures/products/polo/polo10.png",
+        "assets/pictures/products/polo/polo11.png",
+        "assets/pictures/products/polo/polo12.jpg"
+      ]
+    }
+  ]
+}
 ]
+
 

@@ -3,9 +3,10 @@
     "title": "Vêtements",
     "links": [
       { "label": "T-shirts", "to": "/product/tshirts" },
+      { "label": "Polo", "to": "/product/polo" },
       { "label": "Polaires", "to": "/product/polaires" },
       { "label": "Veste Running", "to": "/product/veste-running" },
-      { "label": "Vestes de sport", "to": "/product/vestes-de-sport" }
+      { "label": "Veste de sport", "to": "/product/veste-de-sport" }
     ]
   },
   {
@@ -27,8 +28,8 @@
     "title": "Tête & Cou",
     "links": [
       { "label": "Casquette", "to": "/product/casquette" },
-      { "label": "Cagoule", "to": "/product/cagoules" },
-      { "label": "Cache-cou", "to": "/product/cache-cous" }
+      { "label": "Cagoules", "to": "/product/cagoules" },
+      { "label": "Cache-cou", "to": "/product/cache-cou" }
     ]
   },
   {
@@ -57,7 +58,7 @@
   {
     "title": "Outils de Récupération",
     "links": [
-      { "label": "Masseur", "to": "/product/masseur" },
+      { "label": "Pistolet Masseur", "to": "/product/pistolet-masseur" },
       { "label": "Bottes Pressothérapie", "to": "/product/bottes-pressotherapie" }
     ]
   }
