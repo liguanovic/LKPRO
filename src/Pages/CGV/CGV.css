@@ -8,3 +8,19 @@
 [id="cgv-container"] p {
     font-family: Montserrat, sans-serif !important;
 }
+
+@media (min-width: 768px) {
+    [id="cgv-container"] {
+        padding: 0 30px;
+    }
+
+    [id="cgv-container"] p {
+        font-size: 1.2rem;
+        min-width: 400px;
+        max-width: 1000px;
+        padding: 0 10px;
+        line-height: 1.6;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
