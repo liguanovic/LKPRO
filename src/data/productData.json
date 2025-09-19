@@ -594,7 +594,7 @@
     ]
   },
   {
-  "id": "cagoules",
+  "id": "cagoules-001",
   "slug": "cagoules",
   "name": "Cagoules",
   "description": "Cagoules conçues pour offrir une protection optimale contre le froid et les intempéries lors de vos activités extérieures. Fabriquées avec des matériaux respirants et isothermes, elles garantissent un confort exceptionnel tout en préservant la chaleur corporelle.\n\nIdéales pour le football, le ski, le snowboard, la randonnée, ainsi que pour toute activité en extérieur nécessitant une protection contre le froid.\n\nCagoules personnalisables avec votre logo ou design, parfaites pour les équipes sportives, les groupes et les événements.",
@@ -624,7 +624,7 @@
   ]
 },
 {
-  "id": "cache-cou",
+  "id": "cache-cou-001",
   "slug": "cache-cou",
   "name": "Cache-cou",
   "description": "Cache-cou conçu pour offrir une protection optimale contre le froid et le vent lors de vos activités extérieures. Fabriqué avec des matériaux respirants et isothermes, il assure une protection thermique tout en maintenant un confort exceptionnel.\n\nIdéal pour le ski, le snowboard, la randonnée, ainsi que pour toute activité nécessitant une protection contre les intempéries. Disponible en couleur noire, ce cache-cou est également personnalisable avec votre logo ou design, parfait pour les clubs sportifs, les groupes et les événements.",
@@ -644,7 +644,7 @@
   ]
 },
 {
-  "id": "chaussettes-basses",
+  "id": "chaussettes-basses-001",
   "slug": "chaussettes-basses",
   "name": "Chaussettes basses",
   "description": "Les chaussettes basses allient style, confort et performance, idéales pour les athlètes modernes. Conçues pour offrir un excellent maintien du pied et une respirabilité optimale, elles sont parfaites pour le football et autres sports. Leur coupe basse et leur design épuré répondent aux dernières tendances en matière d'équipement sportif, permettant aux joueurs de rester élégants tout en maximisant leur confort sur le terrain.\n\nFabriquées avec des matériaux de haute qualité, ces chaussettes assurent une meilleure circulation de l'air, évitant la surchauffe et les irritations, même pendant les entraînements intensifs ou les matchs. Disponibles en deux couleurs classiques : noir et blanc, elles s'intègrent facilement à tous les types de tenues sportives.\n\nUn choix parfait pour les clubs sportifs, les événements, ou pour les joueurs cherchant à allier performance et esthétique moderne.",
@@ -669,7 +669,7 @@
   ]
 },
 {
-  "id": "chaussettes-hautes",
+  "id": "chaussettes-hautes-001",
   "slug": "chaussettes-hautes",
   "name": "Chaussettes hautes",
   "description": "Les chaussettes hautes sont un élément clé de l'équipement sportif pour ceux qui recherchent performance, confort et style. Conçues pour offrir un soutien musculaire optimal, elles améliorent la circulation sanguine et réduisent la fatigue pendant l'effort. Que ce soit pour le football, le rugby, le basketball, la course à pied, le cyclisme ou encore la randonnée, ces chaussettes sont faites pour s'adapter à tous les sports et à toutes les intensités.\n\nFabriquées avec des matériaux respirants et anti-humidité, elles garantissent un confort maximum tout au long de l'activité. Leur compression légère aide à stabiliser les muscles et à prévenir les blessures tout en maintenant un excellent niveau de confort. Disponibles en plusieurs couleurs, ces chaussettes sont non seulement pratiques mais aussi modernes, ajoutant une touche d'élégance à vos tenues sportives.\n\nLes chaussettes hautes sont également personnalisables avec votre logo ou design, ce qui en fait un choix parfait pour les clubs sportifs, les équipes et les événements.",
@@ -743,7 +743,7 @@
   ]
 },
 {
-  "id": "veste-sport",
+  "id": "veste-sport-001",
   "slug": "veste-de-sport",
   "name": "Veste de sport Zipper",
   "description": "La veste de sport zipper est l'alliance parfaite entre confort, performance et style. Conçue pour accompagner les athlètes et les passionnés de sport dans leurs entraînements et compétitions, cette veste légère et respirante assure une excellente régulation thermique, idéale pour les sessions extérieures ou les échauffements. Grâce à son design moderne et épuré, elle s'adapte parfaitement à toutes les morphologies et offre une grande liberté de mouvement, ce qui en fait un choix incontournable pour les sportifs.\n\nFabriquée avec des matériaux de haute qualité, cette veste est dotée d'une fermeture éclair robuste et d'une coupe ajustée qui garantit à la fois confort et praticité. Son tissu respirant permet de maintenir une température corporelle idéale tout en évacuant efficacement la transpiration. Elle est parfaite pour le running, le football, le basketball, le cyclisme, ou toute autre activité physique nécessitant une mobilité optimale.\n\nLa veste de sport zipper est disponible en plusieurs coloris, et peut être personnalisée avec votre logo ou design, idéal pour les clubs sportifs, les équipes et les événements. Que vous soyez un athlète professionnel ou un passionné de sport, cette veste vous accompagnera partout avec style et performance.",
@@ -782,7 +782,7 @@
   ]
 },
 {
-  "id": "polo",
+  "id": "polo-001",
   "slug": "polo",
   "name": "Polo de sport",
 "description": "Le polo de sport élégant est conçu pour ceux qui recherchent un look soigné tout en restant dans un environnement sportif. Il est parfait pour des événements sportifs semi-formels, des réceptions, des galas, ou des déplacements d’équipe. Idéal pour des activités légères, ce polo offre un confort optimal tout en permettant une grande liberté de mouvement, tout en conservant une allure professionnelle et stylée. \n\nQue ce soit pour une remise de prix, des événements de sponsors, ou des réunions d’équipe, ce polo de sport est un choix incontournable pour les clubs et les athlètes souhaitant se distinguer avec élégance. Le tissu léger et respirant permet un confort tout au long de la journée, tandis que la coupe moderne assure une silhouette soignée. \n\nDisponible en plusieurs couleurs il peut être personnalisé avec un logo, le nom de votre club, ou tout autre design pour renforcer votre identité visuelle. Le polo est la solution idéale pour des événements sociaux ou des activités légères où style et performance sont essentiels.",
@@ -825,7 +825,83 @@
       ]
     }
   ]
+},
+{
+  "id": "chaussettes-adherentes-001",
+  "slug": "chaussettes-adherentes",
+  "name": "Chaussettes adhérentes",
+  "description": "Les chaussettes adhérentes offrent un maintien optimal et une sécurité maximale lors de toutes vos activités sportives.\n\nConçues avec un talon 3D résistant et agréable, elles assurent stabilité et confort à chaque mouvement. Le tissu doux, respirant et absorbant procure une sensation agréable pendant l’effort, tandis que le bord élastique garantit un maintien ferme sans comprimer le pied.\n\nLa semelle antidérapante innovante prévient les glissades, même sur des surfaces glissantes, offrant une adhérence maximale pour le yoga, le pilates, la danse, le fitness ou toute activité nécessitant équilibre et précision.\n\nGrâce à leur design ergonomique et moderne, ces chaussettes épousent parfaitement la forme du pied, réduisent la fatigue et favorisent une circulation optimale. Elles conviennent aux sportifs, enfants et amateurs cherchant performance, confort et sécurité.\n\nUn accessoire indispensable qui allie style, fonctionnalité et bien-être, idéal pour les entraînements, les séances en studio ou les moments sportifs."
+
+,
+  "defaultColor": "bleu ciel",
+  "colors": [
+    {
+      "name": "bleu ciel",
+      "hex": "#87CEEB",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes1.png",
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes2.jpg"
+      ]
+    },
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes3.jpg"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes8.jpg"
+      ]
+    },
+    {
+      "name": "bleu marine",
+      "hex": "#000080",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes4.jpg"
+      ]
+    },
+    {
+      "name": "rose",
+      "hex": "#FFC0CB",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes5.jpg"
+      ]
+    },
+    {
+      "name": "orange",
+      "hex": "#FFA500",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes6.jpg"
+      ]
+    },
+    {
+      "name": "rouge",
+      "hex": "#FF0000",
+      "images": [
+        "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes7.jpg"
+      ]
+    },
+    {
+  "name": "jaune",
+  "hex": "#FFFF00",
+  "images": [
+    "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes9.jpg"
+  ]
+},
+{
+  "name": "jaune fluo",
+  "hex": "#CCFF00",
+  "images": [
+    "assets/pictures/products/chaussettes-adherentes/chaussettes-adherentes10.jpg"
+  ]
 }
+  ]
+}
+
 ]
 
 

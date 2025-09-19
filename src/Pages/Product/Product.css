@@ -118,7 +118,6 @@
     font-family: Bruno Ace SC, sans-serif;
 }
 
-/* Container carousel */
 .product-carousel {
     position: relative;
     width: 100%;
@@ -127,7 +126,6 @@
     align-items: center;
 }
 
-/* Liste des images */
 .product-carousel ul {
     display: flex;
     gap: 0.5rem;
@@ -139,13 +137,11 @@
     scroll-snap-type: x mandatory;
 }
 
-/* Chaque vignette */
 .product-carousel li {
     flex: 0 0 auto;
     scroll-snap-align: center;
 }
 
-/* Bouton vignette */
 .product-carousel button.thumbnail {
     width: 80px;
     height: 80px;
@@ -158,7 +154,6 @@
     background: #fff;
 }
 
-/* Image à l'intérieur */
 .product-carousel button.thumbnail img {
     width: 100%;
     height: 100%;
@@ -166,7 +161,6 @@
     pointer-events: none;
 }
 
-/* Flèches de navigation */
 .product-carousel .carousel-arrow {
     position: absolute;
     top: 50%;

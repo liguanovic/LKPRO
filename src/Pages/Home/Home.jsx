@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import ProductCard from '../../components/ProductCard/ProductCard';
 import productsCard from '../../data/productsCard.json';
 import CarrouselAdvantages from '../../components/CarrouselAdvantages/CarrouselAdvantages';
+import CarrouselConfiance from '../../components/CarrouselConfiance/CarrouselConfiance';
 import logoClub from '../../data/logos.json';
 
 import objetQualite from '../../assets/Pictures/objet-qualite.png';
@@ -78,6 +79,9 @@ const Home = () => {
                 <section className="confiance">
                     <h2>Ils nous font confiance</h2>
                     <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
+
+                    <CarrouselConfiance />
+
                     <div className="logo-slider">
                         <div className="logo-track">
                             {logoClub.concat(logoClub).map((logo, index) => (

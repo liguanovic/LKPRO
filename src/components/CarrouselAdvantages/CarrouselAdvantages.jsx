@@ -4,29 +4,27 @@ import './CarrouselAdvantages.css';
 
 const CarrouselAdvantages = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
+    const LENGTH = advantages.length;
     const intervalRef = useRef(null);
     const isPausedRef = useRef(false);
 
     const goNext = useCallback(() => {
-        setCurrentIndex(prev => (prev + 1) % advantages.length);
-    }, []);
+        setCurrentIndex(prev => (prev + 1) % LENGTH);
+    }, [LENGTH]);
 
     const goPrev = useCallback(() => {
-        setCurrentIndex(prev => (prev - 1 + advantages.length) % advantages.length);
-    }, []);
+        setCurrentIndex(prev => (prev - 1 + LENGTH) % LENGTH);
+    }, [LENGTH]);
 
-    const startAutoScroll = useCallback(() => {
+    useEffect(() => {
         intervalRef.current = setInterval(() => {
             if (!isPausedRef.current) {
                 goNext();
             }
         }, 3000);
-    }, [goNext]);
 
-    useEffect(() => {
-        startAutoScroll();
         return () => clearInterval(intervalRef.current);
-    }, [startAutoScroll]);
+    }, [goNext]);
 
     const handleTouchStart = () => {
         isPausedRef.current = true;
@@ -36,32 +34,25 @@ const CarrouselAdvantages = () => {
         isPausedRef.current = false;
     };
 
+    const adv = advantages[currentIndex];
+
     return (
-
-        <section className="carrousel-advantages">
-            <ul
-                className="carousel-container"
-                onTouchStart={handleTouchStart}
-                onTouchEnd={handleTouchEnd}
-                style={{ transform: `translateX(-${currentIndex * 100}%)` }}
-            >
-                {advantages.map((adv, index) => (
-                    <li key={index}>
-                        <figure className={`carousel-card ${index === currentIndex ? 'active' : ''}`}>
-                            <img
-                                src={adv.image.startsWith('http') ? adv.image : `${process.env.PUBLIC_URL}/${adv.image}`}
-                                alt={adv.title}
-                                className="card-img"
-                            />
-
-                            <figcaption className="card-text">
-                                <h3>{adv.title}</h3>
-                                <p>{adv.description}</p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                ))}
-            </ul>
+        <section
+            className="carrousel-advantages"
+            onTouchStart={handleTouchStart}
+            onTouchEnd={handleTouchEnd}
+        >
+            <figure className="carousel-card active">
+                <img
+                    src={adv.image.startsWith('http') ? adv.image : `${process.env.PUBLIC_URL}/${adv.image}`}
+                    alt={adv.title}
+                    className="card-img"
+                />
+                <figcaption className="card-text">
+                    <h3>{adv.title}</h3>
+                    <p>{adv.description}</p>
+                </figcaption>
+            </figure>
 
             <button className="carousel-arrow left" onClick={goPrev}>
                 &lt;
@@ -70,7 +61,6 @@ const CarrouselAdvantages = () => {
                 &gt;
             </button>
         </section>
-
     );
 };
 
