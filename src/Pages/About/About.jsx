@@ -1,5 +1,7 @@
 import about from "../../data/about.json";
 import logoClub from '../../data/logos.json';
+import ReactMarkdown from "react-markdown";
+
 import './About.css';
 
 const About = () => {
@@ -29,7 +31,11 @@ const About = () => {
                     <h2>{section.heading}</h2>
 
                     {section.paragraphs &&
-                        section.paragraphs.map((p, i) => <p key={i}>{p}</p>)}
+                        section.paragraphs.map((p, i) => (
+                            <ReactMarkdown key={i}>
+                                {p}
+                            </ReactMarkdown>
+                        ))}
 
                     {section.list && (
                         <ul>

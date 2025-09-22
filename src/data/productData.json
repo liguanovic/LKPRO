@@ -900,8 +900,161 @@
   ]
 }
   ]
+},
+{
+  "id": "hauts-de-corps-001",
+  "slug": "hauts-de-corps",
+  "name": "Haut de corps",
+  "description": "Le haut de corps est pensé pour les athlètes et équipes en quête de performance sans compromis sur le style. Confortable et polyvalent, il accompagne parfaitement les entraînements, les échauffements, ou les déplacements d'équipe.\n\nGrâce à sa conception soignée et son tissu respirant, il permet une régulation optimale de la température corporelle, même lors d’efforts prolongés. Sa coupe ergonomique assure une liberté de mouvement totale, tandis que sa finition moderne en fait une pièce idéale pour les occasions où l’apparence compte autant que la performance.\n\nQue ce soit pour les compétitions, les événements d’équipe, ou les temps de récupération, ce haut offre une solution élégante et fonctionnelle. Il peut également être personnalisé avec un logo, un nom ou un design spécifique, renforçant ainsi la cohésion et l’identité visuelle de votre club.\n\nC’est le choix parfait pour affirmer votre présence avec style, sur le terrain comme en dehors.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps1.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps2.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps3.jpg"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps4.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps5.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps6.jpg"
+      ]
+    },
+    {
+      "name": "bleu marine",
+      "hex": "#1A2B4C",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps7.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps8.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps9.jpg"
+      ]
+    },
+    {
+      "name": "bleu",
+      "hex": "#007BFF",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps10.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps11.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps12.jpg"
+      ]
+    },
+    {
+      "name": "jaune fluo",
+      "hex": "#DFFF00",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps13.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps14.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps15.jpg"
+      ]
+    },
+    {
+      "name": "orange fluo",
+      "hex": "#FF5E00",
+      "images": [
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps16.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps17.png",
+        "assets/pictures/products/hauts-de-corps/hauts-de-corps18.jpg"
+      ]
+    }
+  ]
+},
+{
+  "id": "veste-zippee-pilates-001",
+  "slug": "veste-zippee-pilates",
+  "name": "Veste zippée Pilates",
+  "description": "Disponible en 2 ou 3 pieces la veste zippée Pilates est conçue spécialement pour les pratiquants de Pilates cherchant confort, style et performance. Idéale pour les séances d’échauffement, de récupération ou les cours, cette veste légère et respirante assure une liberté de mouvement optimale grâce à sa coupe ergonomique. Fabriquée avec des matériaux techniques elle offre une excellente respirabilité pour un confort maximal tout au long de votre pratique.\n\nParfaite pour le Pilates matinal ou les entraînements en studio, cette veste polyvalente vous protège des courants d’air tout en restant élégante. Elle s’adapte à tous les niveaux, du débutant au confirmé.\n\nPour renforcer l’identité de votre club ou studio, cette veste zippée Pilates peut être personnalisée avec un logo, un nom ou tout autre design. Offrez à vos élèves et coachs une tenue unique qui reflète votre esprit Pilates et valorise votre image.\n\nAlliez performance, confort et style avec cette veste zippée Pilates, le choix idéal pour tous les passionnés de Pilates souhaitant allier fonctionnalité et élégance au quotidien.",
+  "defaultColor": "bleu clair",
+  "colors": [
+    {
+      "name": "bleu clair",
+      "hex": "#ADD8E6",
+      "images": [
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates.jpg",
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates2.jpg"
+      ]
+    },
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates3.jpg",
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates4.jpg"
+      ]
+    },
+    {
+      "name": "bordeaux",
+      "hex": "#800020",
+      "images": [
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates5.jpg"
+      ]
+    },
+    {
+      "name": "rouge",
+      "hex": "#FF0000",
+      "images": [
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates6.jpg"
+      ]
+    },
+    {
+      "name": "marron",
+      "hex": "#654321",
+      "images": [
+        "assets/pictures/products/veste-zippee-pilates/veste-zippee-pilates7.jpg"
+      ]
+    }
+  ]
+},
+{
+  "id": "ensemble-legging-pilates-001",
+  "slug": "ensemble-legging-pilates",
+  "name": "Ensemble legging Pilates 3 pièces",
+  "description": "L’ensemble legging Pilates 3 pièces est conçu pour accompagner toutes vos séances avec confort et style. Composé d’un legging et d’un top ajusté, il offre une liberté de mouvement optimale adaptée à la pratique du Pilates.\n\nFabriqué dans des tissus techniques, respirants et extensibles, cet ensemble assure un maintien parfait tout en favorisant la circulation de l’air pour un confort durable, même pendant les exercices les plus exigeants.\n\nIdéal pour les cours en studio, la pratique à domicile ou en extérieur, cet ensemble convient à tous les niveaux, du débutant au confirmé.\n\nPersonnalisable avec un logo, un nom ou un design spécifique, il permet de renforcer l’identité visuelle de votre club ou studio Pilates.\n\nAlliez performance, élégance et confort avec cet ensemble legging Pilates 3 pièces, la tenue incontournable pour les passionnés de Pilates.",
+  "defaultColor": "rouge pastel",
+  "colors": [
+    {
+      "name": "rouge fraise",
+      "hex": "#BF3030",
+      "images": [
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates.jpg",
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates2.jpg"
+      ]
+    },
+    {
+      "name": "marron clair",
+      "hex": "#A17B5A",
+      "images": [
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates3.jpg"
+      ]
+    },
+    {
+      "name": "bleu washed denim",
+      "hex": "#6B8DBD",
+      "images": [
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates4.jpg"
+      ]
+    },
+    {
+      "name": "violet",
+      "hex": "#7B5BA3",
+      "images": [
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates5.jpg"
+      ]
+    },
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/ensemble-legging-pilates/ensemble-legging-pilates6.jpg"
+      ]
+    }
+  ]
 }
-
 ]
 
 

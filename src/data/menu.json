@@ -2,9 +2,8 @@
   {
     "title": "Vêtements",
     "links": [
-      { "label": "T-shirts", "to": "/product/tshirts" },
+      { "label": "Hauts de corps", "to": "/product/hauts-de-corps" },
       { "label": "Polo", "to": "/product/polo" },
-      { "label": "Polaires", "to": "/product/polaires" },
       { "label": "Veste Running", "to": "/product/veste-running" },
       { "label": "Veste de sport", "to": "/product/veste-de-sport" }
     ]
@@ -22,6 +21,13 @@
     "title": "Protège-tibias",
     "links": [
       { "label": "Protège-tibias", "to": "/product/protege-tibias" }
+    ]
+  },
+  {
+    "title": "Pilates",
+    "links": [
+      { "label": "Ensemble legging pilates", "to": "/product/ensemble-legging-pilates" },
+      { "label": "Veste zippée pilates", "to": "/product/veste-zippee-pilates" }
     ]
   },
   {

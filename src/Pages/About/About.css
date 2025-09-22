@@ -25,6 +25,7 @@
     margin: 30px 0;
     padding: 0 20px;
     line-height: 1.5;
+    font-family: Montserrat, sans-serif;
 }
 
 .aboutPicture,
@@ -105,6 +106,7 @@ section figure img {
     align-items: center;
     margin-bottom: 10px;
     padding: 0;
+    margin-right: 10px;
 }
 
 .contact-info i {
@@ -116,6 +118,10 @@ section figure img {
     color: #333;
     text-decoration: none;
     font-weight: bold;
+}
+
+.contact-info p {
+    margin: 10px;
 }
 
 .fa-whatsapp {
@@ -207,5 +213,24 @@ section figure img {
 
     .about-page section {
         margin: 60px 0;
+    }
+
+    .contact-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        margin: 40px auto;
+        text-align: center;
+        flex-wrap: nowrap;
+    }
+
+    .contact-info p {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        min-width: 0;
+        max-width: none;
+        width: auto;
     }
 }
