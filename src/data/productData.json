@@ -1054,7 +1054,59 @@
       ]
     }
   ]
+},
+{
+  "id": "sac-de-sport-001",
+  "slug": "sac-de-sport",
+  "name": "Sac de sport",
+  "description": "Le sac de sport est conçu pour accompagner toutes vos activités sportives, que ce soit à la salle, lors d’un match ou en déplacement. Il offre un espace de rangement pratique pour vos vêtements, chaussures et accessoires, tout en restant léger et facile à transporter.\n\nConçu dans des matériaux résistants, il garantit une excellente durabilité face à une utilisation régulière. Ses compartiments multiples facilitent l’organisation de vos affaires et permettent de séparer facilement le linge propre du linge utilisé.\n\nIdéal pour les passionnés de fitness, les sportifs confirmés ou les amateurs de voyages actifs, ce sac allie style, robustesse et praticité pour devenir un véritable indispensable.",
+  "defaultColor": "noir",
+  "colors": [
+    {
+      "name": "noir",
+      "hex": "#000000",
+      "images": [
+        "assets/pictures/products/sac-de-sport/sac-de-sport1.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport2.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport3.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport4.png"
+      ]
+    },
+    {
+      "name": "blanc",
+      "hex": "#FFFFFF",
+      "images": [
+        "assets/pictures/products/sac-de-sport/sac-de-sport5.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport6.png"
+      ]
+    },
+    {
+      "name": "gris",
+      "hex": "#808080",
+      "images": [
+        "assets/pictures/products/sac-de-sport/sac-de-sport7.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport8.png"
+      ]
+    },
+    {
+      "name": "bleu marine",
+      "hex": "#000080",
+      "images": [
+        "assets/pictures/products/sac-de-sport/sac-de-sport9.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport10.png"
+      ]
+    },
+    {
+      "name": "rouge",
+      "hex": "#FF0000",
+      "images": [
+        "assets/pictures/products/sac-de-sport/sac-de-sport11.png",
+        "assets/pictures/products/sac-de-sport/sac-de-sport12.png"
+      ]
+    }
+  ]
 }
+
 ]
 
 
