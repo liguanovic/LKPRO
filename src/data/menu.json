@@ -57,8 +57,7 @@
     "title": "Matériel de Sport",
     "links": [
       { "label": "Bâche de stade", "to": "/product/baches" },
-      { "label": "Fanions", "to": "/product/fanions" },
-            { "label": "Chasubles", "to": "/product/chasubles" }
+      { "label": "Chasubles", "to": "/product/chasubles" }
     ]
   },
   {

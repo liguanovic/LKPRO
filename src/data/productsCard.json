@@ -6,13 +6,13 @@
         "link": "/product/protege-tibias"
     },
     {
-        "image": "assets/pictures/sac.png",
+        "image": "assets/pictures/sac-a-ficelle.png",
         "title": "Sacs à ficelle",
         "alt": "Photo de sacs de sport",
         "link": "/product/sac-a-ficelle"
     },
     {
-        "image": "assets/pictures/products/veste-running/1.png",
+        "image": "assets/pictures/veste-running.png",
         "title": "Veste Running",
         "alt": "Photo de hauts de sport",
         "link": "/product/veste-running"
@@ -30,9 +30,9 @@
         "link": "/product/casquette"
     },
     {
-        "image": "assets/pictures/fanions.png",
-        "title": "Fanions",
-        "alt": "Photo de fanions",
-        "link": "/product/fanions"
+        "image": "assets/pictures/hauts-de-corps.png",
+        "title": "Hauts de Corps",
+        "alt": "Photo d'un haut de corps noir LK PRO",
+        "link": "/product/hauts-de-corps"
     }
 ]
