@@ -2,7 +2,7 @@
   "name": "lkpro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liguanovic.github.io/LKPRO/",
+  "homepage": "https://lkpro.fr",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.0.1",
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
