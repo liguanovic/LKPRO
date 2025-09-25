@@ -50,8 +50,8 @@ const About = () => {
 
                     {section.heading === "Ils nous font confiance" && (
                         <section className="confiance">
-                            <h2>Ils nous font confiance</h2>
-                            <p>Plusieurs clubs et associations nous font confiance, parmi eux :</p>
+                            <h2>Parmis eux</h2>
+                            <p>Plusieurs clubs amateurs, professionnels et associations nous font confiance, parmi eux :</p>
                             <div className="logo-slider">
                                 <div className="logo-track">
                                     {logoClub.concat(logoClub).map((logo, index) => (
@@ -84,7 +84,13 @@ const About = () => {
                                     </p>
                                     <p>
                                         <i className="fa-brands fa-whatsapp"></i>
-                                        <span>{section.contactInfo.phone2}</span>
+                                        <a className="whatsapp-link"
+                                            href="https://api.whatsapp.com/send?phone=33678502276&text=Bonjour,%20je%20vous%20contacte%20depuis%20votre%20site."
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+                                            {section.contactInfo.phone2}
+                                        </a>
                                     </p>
                                 </div>
                             )}

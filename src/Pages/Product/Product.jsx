@@ -131,7 +131,11 @@ const Product = () => {
                     <button
                         className="cta-button"
                         type="button"
-                        onClick={() => console.log("Clic sur 'Demander un devis'")}
+                        onClick={() => {
+                            const subject = encodeURIComponent(`Demande de devis pour ${product.name}`);
+                            const body = encodeURIComponent(`Bonjour,\n\nJe souhaite obtenir un devis pour le produit : ${product.name}.\n\nMerci.`);
+                            window.location.href = `mailto:contact@lkpro.fr?subject=${subject}&body=${body}`;
+                        }}
                     >
                         Demander un devis
                     </button>

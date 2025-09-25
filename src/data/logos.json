@@ -4,10 +4,6 @@
         "alt": "logo Club Magny FC"
     },
     {
-        "src": "assets/pictures/logo-club/uscreteil.png",
-        "alt": "logo Club US Creteil"
-    },
-    {
         "src": "assets/pictures/logo-club/parismetropole.svg",
         "alt": "logo Club Paris Metropole"
     },
@@ -20,7 +16,15 @@
         "alt": "logo Club US Creteil"
     },
     {
-        "src": "assets/pictures/logo-club/parismetropole.svg",
-        "alt": "logo Club Paris Metropole"
+        "src": "assets/pictures/logo-club/almeydan.png",
+        "alt": "logo Al Meydan SC"
+    },
+    {
+        "src": "assets/pictures/logo-club/jerseyworld.png",
+        "alt": "logo Jersey World"
+    },
+    {
+        "src": "assets/pictures/logo-club/asc.png",
+        "alt": "logo ASC"
     }
 ]

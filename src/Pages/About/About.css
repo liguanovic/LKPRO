@@ -28,6 +28,13 @@
     font-family: Montserrat, sans-serif;
 }
 
+.whatsapp-link {
+    font-size: 1rem;
+    padding: 0;
+}
+
+
+
 .aboutPicture,
 section figure img {
     width: 100%;
@@ -114,7 +121,7 @@ section figure img {
 }
 
 .contact-info a {
-    font-size: 14px;
+    font-size: 1rem;
     color: #333;
     text-decoration: none;
     font-weight: bold;
@@ -122,6 +129,7 @@ section figure img {
 
 .contact-info p {
     margin: 10px;
+    font-weight: bold;
 }
 
 .fa-whatsapp {
@@ -232,5 +240,11 @@ section figure img {
         min-width: 0;
         max-width: none;
         width: auto;
+        font-weight: bold;
     }
+
+    .contact-info a {
+        font-size: 1.2rem;
+    }
+
 }
