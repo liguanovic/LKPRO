@@ -47,6 +47,7 @@ const Home = () => {
                         <br /><br />
                         Faites confiance à LK PRO pour un <strong>accompagnement sur-mesure</strong> et la fourniture <strong>en gros d’équipements sportifs personnalisés</strong>.
                     </p>
+                    <button className="btn" onClick={() => navigate('/about')}>En savoir plus</button>
                 </section>
 
 
@@ -71,7 +72,7 @@ const Home = () => {
                     <p>Chez LK PRO, nous créons des équipements personnalisés pour les sportifs exigeants :<br /><br />
                         flocage de maillots, marquage club, ajout de logos, couleurs au choix…
                         Chaque pièce est conçue avec vous pour refléter votre identité sportive.</p>
-                    <button className="btn" onClick={() => navigate('/about')}>En savoir plus</button>
+                    <button className="btn" onClick={() => navigate('/contact')}>Nous contacter</button>
                 </section>
 
                 <CarrouselAdvantages />

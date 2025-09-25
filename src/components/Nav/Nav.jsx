@@ -112,6 +112,32 @@ const Nav = () => {
                             )}
                         </li>
                     ))}
+
+                    {/* ➕ Liens statiques tout en bas */}
+                    <li className="menu-section static-links">
+                        <ul className="submenu">
+                            <li>
+                                <Link to="/about" onClick={() => setMenuOpen(false)}>
+                                    À propos de LK PRO
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to="/CGV" onClick={() => setMenuOpen(false)}>
+                                    CGV
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to="/contact" onClick={() => setMenuOpen(false)}>
+                                    Contact
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to="/faq" onClick={() => setMenuOpen(false)}>
+                                    FAQ
+                                </Link>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </aside>
         </>

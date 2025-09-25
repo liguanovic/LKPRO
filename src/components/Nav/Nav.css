@@ -120,6 +120,28 @@ nav li {
     font-family: Montserrat, sans-serif;
 }
 
+.static-links {
+    margin-top: 2rem;
+    border-top: 1px solid #ccc;
+    padding-top: 1rem;
+}
+
+.static-links .submenu {
+    display: flex;
+    flex-direction: column;
+}
+
+.static-links a {
+    font-size: 0.9rem;
+    color: #333;
+    text-decoration: none;
+}
+
+.static-links a:hover {
+    text-decoration: underline;
+}
+
+
 @media (min-width: 768px) {
     .side-menu {
         top: 60px;

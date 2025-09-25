@@ -9,6 +9,7 @@ import About from './Pages/About/About';
 import CGV from './Pages/CGV/CGV';
 import FAQ from './Pages/FAQ/FAQ';
 import Error from './Pages/Error/Error';
+import Contact from './Pages/Contact/Contact';
 
 import Product from './Pages/Product/Product';
 
@@ -29,6 +30,7 @@ root.render(
         <Route path="/CGV" element={<CGV />} />
         <Route path="/FAQ" element={<FAQ />} />
         <Route path="/product/:slug" element={<Product />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
 
       </Routes>
