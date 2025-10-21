@@ -4,7 +4,7 @@
         "alt": "logo Club Magny FC"
     },
     {
-        "src": "assets/pictures/logo-club/parismetropole.svg",
+        "src": "assets/pictures/logo-club/parismetropole.png",
         "alt": "logo Club Paris Metropole"
     },
     {
@@ -26,5 +26,9 @@
     {
         "src": "assets/pictures/logo-club/asc.png",
         "alt": "logo ASC"
+    },
+    {
+        "src": "assets/pictures/logo-club/club_cpf.png",
+        "alt": "logo Creteil Palais Futsal"
     }
 ]
